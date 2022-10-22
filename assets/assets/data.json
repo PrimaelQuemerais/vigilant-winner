@@ -1,0 +1,151 @@
+{ "products": [
+    {
+      "id": "0",
+      "name": "Potato",
+      "price": 0.69,
+      "category": "Carbohydrates",
+      "image_url": ""
+    },
+    {
+      "id": "1",
+      "name": "Tomatoes",
+      "price": 1.29,
+      "category": "Vegetables",
+      "image_url": ""
+    },
+    {
+      "id": "2",
+      "name": "Eggplant",
+      "price": 2.69,
+      "category": "Vegetables",
+      "image_url": ""
+    },
+    {
+      "id": "3",
+      "name": "Radish",
+      "price": 1.29,
+      "category": "Vegetables",
+      "image_url": ""
+    },
+    {
+      "id": "4",
+      "name": "Zucchini",
+      "price": 0.89,
+      "category": "Vegetables",
+      "image_url": ""
+    },
+    {
+      "id": "5",
+      "name": "Minced Meat",
+      "price": 4.59,
+      "category": "Meat",
+      "image_url": ""
+    },
+    {
+      "id": "6",
+      "name": "Chicken",
+      "price": 3.99,
+      "category": "Meat",
+      "image_url": ""
+    },
+    {
+      "id": "7",
+      "name": "Shrimps",
+      "price": 7.69,
+      "category": "Fish",
+      "image_url": ""
+    },
+    {
+      "id": "8",
+      "name": "Salmon",
+      "price": 12.29,
+      "category": "Fish",
+      "image_url": ""
+    },
+    {
+      "id": "9",
+      "name": "Squid",
+      "price": 8.99,
+      "category": "Fish",
+      "image_url": ""
+    },
+    {
+      "id": "10",
+      "name": "Salad",
+      "price": 1.29,
+      "category": "Vegetables",
+      "image_url": ""
+    },
+    {
+      "id": "11",
+      "name": "Apple",
+      "price": 2.59,
+      "category": "Fruits",
+      "image_url": ""
+    },
+    {
+      "id": "12",
+      "name": "Peach",
+      "price": 2.29,
+      "category": "Fruits",
+      "image_url": ""
+    },
+    {
+      "id": "13",
+      "name": "Pear",
+      "price": 2.59,
+      "category": "Fruits",
+      "image_url": ""
+    },
+    {
+      "id": "14",
+      "name": "Beer",
+      "price": 5.89,
+      "category": "Alcohols",
+      "image_url": ""
+    },
+    {
+      "id": "15",
+      "name": "White Wine",
+      "price": 8.79,
+      "category": "Alcohols",
+      "image_url": ""
+    },
+    {
+      "id": "16",
+      "name": "Red Wine",
+      "price": 8.79,
+      "category": "Alcohols",
+      "image_url": ""
+    },
+    {
+      "id": "17",
+      "name": "Rose Wine",
+      "price": 7.99,
+      "category": "Alcohols",
+      "image_url": ""
+    },
+    {
+      "id": "18",
+      "name": "Vodka",
+      "price": 0.99,
+      "category": "Alcohols",
+      "image_url": ""
+    },
+    {
+      "id": "19",
+      "name": "Wisky",
+      "price": 9.99,
+      "category": "Alcohols",
+      "image_url": ""
+    }
+  ],
+  "categories": [
+    "Vegetables",
+    "Meat",
+    "Fish",
+    "Fruits",
+    "Carbohydrates",
+    "Alcohols"
+  ]
+}
